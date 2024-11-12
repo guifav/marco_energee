@@ -1,2 +1,1 @@
-# marco_energee
-Arquivos para o projeto
+# Repositório para troca de arquivos do projeto Marco Energee
